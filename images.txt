@@ -1,3 +1,4 @@
 nginx
 gitlab/gitlab-ce:17.2.0-ce.0
 jgraph/drawio:24.7.5
+registry:2.8.3
