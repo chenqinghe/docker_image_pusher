@@ -1,6 +1,1 @@
-nginx
-gitlab/gitlab-ce:17.2.0-ce.0
-jgraph/drawio:24.7.5
-registry:2.8.3
-gitlab/gitlab-runner:alpine3.19-bleeding
-gitlab/gitlab-runner-helper:alpine3.17-x86_64-bleeding
+owncloud/server
