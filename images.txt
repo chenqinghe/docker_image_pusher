@@ -1,1 +1,1 @@
-chromedp/headless-shell
+ubuntu:noble
