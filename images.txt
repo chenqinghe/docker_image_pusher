@@ -1,1 +1,1 @@
-bitnami/cassandra:5.0.2-debian-12-r1
+chromedp/headless-shell
