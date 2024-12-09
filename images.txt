@@ -1,1 +1,1 @@
-library/ubuntu:noble
+library/golang:1.23
