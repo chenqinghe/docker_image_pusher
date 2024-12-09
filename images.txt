@@ -1,1 +1,1 @@
-ubuntu:noble
+library/ubuntu:noble
