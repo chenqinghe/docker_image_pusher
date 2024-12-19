@@ -1,1 +1,1 @@
-library/golang:1.23
+mysql:8.0.40-debian
