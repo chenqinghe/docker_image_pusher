@@ -1,1 +1,1 @@
-mysql:8.0.40-debian
+library/mysql:8.0.40-debian
