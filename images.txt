@@ -1,1 +1,1 @@
-library/mysql:8.0.40-debian
+qingpan/rnacos:stable
