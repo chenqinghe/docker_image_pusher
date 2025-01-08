@@ -1,1 +1,1 @@
-library/debian:12.8
+library/ubuntu:20.04
