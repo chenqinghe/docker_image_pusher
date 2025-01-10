@@ -1,1 +1,1 @@
-library/ubuntu:20.04
+registry.k8s.io/nfd/node-feature-discovery:v0.16.6
