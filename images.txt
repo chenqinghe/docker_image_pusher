@@ -1,1 +1,1 @@
---platform=linux/arm64 library/mongo:5.0.18
+--platform=linux/arm64 library/mysql:8.0.36
