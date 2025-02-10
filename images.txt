@@ -1,1 +1,1 @@
---platform=linux/arm64 pgvector/pgvector:pg16
+--platform=linux/arm64 pgvector/pgvector:0.7.0-pg16
