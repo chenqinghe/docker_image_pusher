@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.3
+library/node:16-alpine
