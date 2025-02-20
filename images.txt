@@ -1,1 +1,1 @@
-library/mongo:4.4.24
+--platform=linux/arm64/v8 library/mongo:4.4.24
