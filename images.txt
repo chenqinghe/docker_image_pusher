@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 library/node:16-alpine
+library/mongo:4.4.24
