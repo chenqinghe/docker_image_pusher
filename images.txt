@@ -1,13 +1,2 @@
---platform=linux/arm64 lobehub/lobe-chat:1.62.4
---platform=linux/arm64 library/alpine
---platform=linux/arm64 pgvector/pgvector:pg17
---platform=linux/arm64 minio/minio
---platform=linux/arm64 casbin/casdoor
---platform=linux/arm64 lobehub/lobe-chat-database
-
---platform=linux/amd64 lobehub/lobe-chat:1.62.4
---platform=linux/amd64 library/alpine
---platform=linux/amd64 pgvector/pgvector:pg17
---platform=linux/amd64 minio/minio
---platform=linux/amd64 casbin/casdoor
---platform=linux/amd64 lobehub/lobe-chat-database
+--platform=linux/amd64 syq163/emoti-voice:latest
+--platform=linux/arm64 syq163/emoti-voice:latest
