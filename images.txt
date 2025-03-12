@@ -1,1 +1,1 @@
-apache/hive:4.0.1
+library/postgres:14.17
