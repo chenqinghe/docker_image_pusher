@@ -1,2 +1,1 @@
-bitnami/postgresql:11.11.0-debian-10-r71
-bitnami/zookeeper:3.6.2-debian-10-r185
+library/busybox:1.30
