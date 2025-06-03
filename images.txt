@@ -1,1 +1,1 @@
-library/busybox:1.30
+adoptopenjdk/openjdk8:jre8u452-b09
