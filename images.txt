@@ -1,1 +1,1 @@
-adoptopenjdk/openjdk8:jre8u452-b09
+bitnami/mysql:8.0.31-debian-11-r0
