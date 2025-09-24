@@ -1,1 +1,1 @@
-library/alpine:latest
+alpine/git:v2.49.1
