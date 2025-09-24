@@ -1,1 +1,1 @@
-library/node:22.14.0
+library/alpine:latest
