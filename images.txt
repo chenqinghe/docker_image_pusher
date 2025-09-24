@@ -1,1 +1,1 @@
-library/golang:1.25.1
+library/node:22.14.0
