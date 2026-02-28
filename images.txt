@@ -1,1 +1,1 @@
-library/elasticsearch:9.3.1
+library/kibana:9.3.1
