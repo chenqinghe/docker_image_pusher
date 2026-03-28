@@ -1,1 +1,1 @@
-library/kibana:9.3.1
+qingpan/rnacos:v0.8.1
