@@ -1,1 +1,1 @@
-qingpan/rnacos:v0.8.1
+library/ubuntu:26.04
