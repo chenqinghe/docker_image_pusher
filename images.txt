@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+lmsysorg/sglang:v0.5.17-cu130-runtime
