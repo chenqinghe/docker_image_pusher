@@ -1,1 +1,1 @@
-apache/kvrocks:nightly
+--platform=linux/arm64 apache/kvrocks:nightly
