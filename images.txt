@@ -1,2 +1,3 @@
 # --platform=linux/arm64 apache/kvrocks:nightly
-redis:7.2.9
+# redis:7.2.9
+pikadb/pika:3.5.7
