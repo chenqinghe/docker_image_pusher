@@ -1,6 +1,6 @@
 # --platform=linux/arm64 apache/kvrocks:nightly
 # redis:7.2.9
 # pikadb/pika:v3.5.6
-library/elasticsearch：9.3.1
+library/elasticsearch:9.3.1
 library/kibana:9.3.1
 
