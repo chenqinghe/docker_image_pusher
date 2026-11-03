@@ -38,6 +38,8 @@ jobs:
         remove-android: 'true'
         remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
+    - name: remove useless directory
+      run: rm -rf /opt/hostedtoolcache
 
     - name: Restart docker
       run: sudo service docker restart
